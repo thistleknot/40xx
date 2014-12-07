@@ -3061,7 +3061,7 @@ This is useful for blobs and other simple headless creatures that don't have bra
 [CATEGORY:MOUTH]
 [DEFAULT_RELSIZE:20]
 [BODY:PROBOSCIS]
-[BP:PROBOSCIS:proboscis:STP]
+[BP:PROBOSCIS:proboscis:proboscises]
 [CONTYPE:HEAD]
 [CATEGORY:PROBOSCIS]
 [DEFAULT_RELSIZE:100]

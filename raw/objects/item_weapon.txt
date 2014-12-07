@@ -77,7 +77,7 @@ amphibian men, etc., need variants
 [SKILL:HAMMER]
 [RANGED:CROSSBOW:BOLT]
 [SHOOT_FORCE:1000]
-[SHOOT_MAXVEL:1000]
+[SHOOT_MAXVEL:200]
 This is just to make sure a near-weightless object doesn't go faster than the string could possibly go.
 [TWO_HANDED:0]
 [MINIMUM_SIZE:15000]
@@ -99,7 +99,7 @@ This is just to make sure a near-weightless object doesn't go faster than the st
 [SKILL:SWORD]
 [RANGED:BOW:ARROW]
 [SHOOT_FORCE:1000]
-[SHOOT_MAXVEL:1000]
+[SHOOT_MAXVEL:200]
 [TWO_HANDED:0]
 [MINIMUM_SIZE:15000]
 [MATERIAL_SIZE:3]
